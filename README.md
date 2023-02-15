@@ -1,2 +1,3 @@
-# personal_notes
-My personal notes and testings. Mostly Linux stuff.
+# Personal Notes
+Contains my personal notes, testings and findings.   
+Mostly Linux stuff.
